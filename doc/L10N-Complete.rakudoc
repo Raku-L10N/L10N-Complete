@@ -1,0 +1,33 @@
+=begin pod
+
+=head1 NAME
+
+L10N-Complete - All official localizations of Raku
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+# There is no specific code to execute
+
+=end code
+
+=head1 DESCRIPTION
+
+L10N::Complete is a distribution that, when installed, will install all
+official localizations of the Raku Programming Language, as well as any
+support distributions, as its dependencies.
+
+It will not install anything else.
+
+=head1 AUTHOR
+
+Elizabeth Mattijsen <liz@raku.rocks>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2025 Raku Localization Team
+
+This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+
+=end pod
