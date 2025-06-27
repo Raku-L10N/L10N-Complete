@@ -1,6 +1,8 @@
 Revision history for L10N::Complete
 
 {{$NEXT}}
+
+0.0.2  2025-06-27T21:09:25+02:00
     - Bump dependencies now that L10N has a different layout
 
 0.0.1  2025-06-25T13:12:54+02:00
