@@ -1,6 +1,7 @@
 Revision history for L10N::Complete
 
 {{$NEXT}}
+    - Bump dependencies now that L10N has a different layout
 
 0.0.1  2025-06-25T13:12:54+02:00
     - Initial version, basically ripped from the L10N distribution
