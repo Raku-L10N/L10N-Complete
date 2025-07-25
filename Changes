@@ -1,6 +1,7 @@
 Revision history for L10N::Complete
 
 {{$NEXT}}
+    - Add L10N::ZH (Chinese) and L10N::EO (Esperanto)
 
 0.0.2  2025-06-27T21:09:25+02:00
     - Bump dependencies now that L10N has a different layout
