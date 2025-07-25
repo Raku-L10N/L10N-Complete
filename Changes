@@ -1,6 +1,8 @@
 Revision history for L10N::Complete
 
 {{$NEXT}}
+
+0.0.3  2025-07-25T13:50:36+02:00
     - Add L10N::ZH (Chinese) and L10N::EO (Esperanto)
 
 0.0.2  2025-06-27T21:09:25+02:00
